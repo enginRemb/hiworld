@@ -1,0 +1,25 @@
+.liste1{
+    border: 1px solid red;
+    margin: 5px;
+    padding: 20px;
+    padding-left: 0;
+    display: flex;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: flex-end;
+}
+.liste1 li{
+    border: 1px solid blue;
+    margin-left: 5px;
+}
+.resclass{
+    width: 200px;
+    height: 200px;
+    border: 5px solid green;
+}
+.resclass img{
+    width: 100%;
+    height: 100%;
+}
